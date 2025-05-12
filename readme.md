@@ -56,8 +56,10 @@ src/
 │   ├── SearchScreen.js
 │   └── BookDetailScreen.js
 ├── navigation/
-│   ├── FavoritesScreen.js
-│   └── BookDetailScreen.js
+│   ├── NavigationRoute.js
+│   ├── FavoriteStack.js
+│   ├── Search Stack.js
+│   └── HomeStack.js
 ├── redux/
 │   ├── addFavoriteSlice.js
 │   ├── addFavoriteAction.js
