@@ -62,7 +62,6 @@ src/
 │   └── HomeStack.js
 ├── redux/
 │   ├── addFavoriteSlice.js
-│   ├── addFavoriteAction.js
 │   ├── bookSlice.js
 │   └── searchSlice.js
 ├── store/
