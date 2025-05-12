@@ -82,10 +82,12 @@ Katkı sağlamak isterseniz `pull request` açabilir ya da `issue` oluşturabili
 
 ## Projeye Ait Görseller
 
-![WhatsApp Image 2025-05-12 at 2 25 29 PM (3)](https://github.com/user-attachments/assets/ba0bd538-15aa-4aa2-a663-aed1f938fea2)
-![WhatsApp Image 2025-05-12 at 2 25 29 PM (1)](https://github.com/user-attachments/assets/cf89b6c8-e156-472d-b2b2-6cc717f12b43)
-![WhatsApp Image 2025-05-12 at 2 25 29 PM](https://github.com/user-attachments/assets/3c113b66-223f-4451-81e5-523ad0feb317)
-![WhatsApp Image 2025-05-12 at 2 25 29 PM (2)](https://github.com/user-attachments/assets/b1f4ea3a-1d0b-41d2-965c-8ce264fabd1f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c113b66-223f-4451-81e5-523ad0feb317" width="200"/>
+  <img src="https://github.com/user-attachments/assets/cf89b6c8-e156-472d-b2b2-6cc717f12b43" width="200"/><br>
+  <img src="https://github.com/user-attachments/assets/b1f4ea3a-1d0b-41d2-965c-8ce264fabd1f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ba0bd538-15aa-4aa2-a663-aed1f938fea2" width="200"/>
+</p>
 
 
 
