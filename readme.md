@@ -57,8 +57,8 @@ src/
 │   └── BookDetailScreen.js
 ├── navigation/
 │   ├── NavigationRoute.js
-│   ├── FavoriteStack.js
-│   ├── Search Stack.js
+│   ├── FavoritesStack.js
+│   ├── SearchStack.js
 │   └── HomeStack.js
 ├── redux/
 │   ├── addFavoriteSlice.js
