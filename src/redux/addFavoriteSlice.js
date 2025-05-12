@@ -9,6 +9,17 @@ export const loadFavoritesFromStorage = createAsyncThunk(
   }
 );
 
+export const saveFavoritesToStorage = createAsyncThunk(
+  'favorites/saveFavoritesToStorage',
+  async (favorites) => {
+      try {
+          await AsyncStorage.setItem('favorites', JSON.stringify(favorites));
+      } catch (error) {
+          console.error("Error saving favorites to AsyncStorage", error);
+      }
+  }
+)
+
 const favoritesSlice = createSlice({
   name: 'favorites',
   initialState: {
