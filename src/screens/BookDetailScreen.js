@@ -3,7 +3,7 @@ import { View, Text, Image, StyleSheet, ScrollView, TouchableOpacity, Alert } fr
 import { useDispatch, useSelector } from 'react-redux';
 import Ionicons from '@expo/vector-icons/Ionicons';
 import { addFavorite, removeFavorite } from '../redux/addFavoriteSlice';
-import { saveFavoritesToStorage } from '../redux/addFavoriteAction';
+import { saveFavoritesToStorage } from '../redux/addFavoriteSlice';
 
 const BookDetailScreen = ({ route }) => {
   const { book } = route.params;

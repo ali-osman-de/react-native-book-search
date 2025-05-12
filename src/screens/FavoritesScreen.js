@@ -3,7 +3,7 @@ import { View, Text, Image, StyleSheet, ScrollView, TouchableOpacity } from 'rea
 import { useSelector, useDispatch } from 'react-redux';
 import { removeFavorite } from '../redux/addFavoriteSlice';
 import Ionicons from '@expo/vector-icons/Ionicons';
-import { loadFavoritesFromStorage } from '../redux/addFavoriteSlice'; // ✅ Thunk versiyonu kullanın
+import { loadFavoritesFromStorage } from '../redux/addFavoriteSlice';
 
 const FavoritesScreen = ({ navigation }) => {
   const favorites = useSelector(state => state.favorites.favorites);
